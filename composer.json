@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/visitor",
+    "name"       : "immediate-media/hoa-visitor",
     "description": "The Hoa\\Visitor library.",
     "type"       : "library",
     "keywords"   : ["library", "visitor", "visit", "structure"],
@@ -23,7 +23,7 @@
         "source": "https://central.hoa-project.net/Resource/Library/Visitor"
     },
     "require": {
-        "hoa/consistency": "~1.0"
+        "immediate-media/hoa-consistency": "~1.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
